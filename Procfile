@@ -1,1 +1,1 @@
-web: gunicorn craiglist.wsgi --log-file
+web: gunicorn craiglist.wsgi 
